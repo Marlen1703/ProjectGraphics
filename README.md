@@ -19,7 +19,7 @@ Askat Kyzy Zharkyn
 
 Ravshan Khamidov
 
-Arkabaev Daniyar
+Arkabaev Daniiar
 
 Askat Kyzy Nuraim
 
