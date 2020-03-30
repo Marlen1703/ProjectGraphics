@@ -15,13 +15,13 @@ but it be interesting to play with and get some intuition about the relationship
 # Team:
 Ibraimov Marlen
 
-Zharkyn Askat Kyzy
+Askat Kyzy Zharkyn 
 
 Ravshan Khamidov
 
 Arkabaev Daniyar
 
- Askat Kyzy Nuraim
+Askat Kyzy Nuraim
 
 
 
