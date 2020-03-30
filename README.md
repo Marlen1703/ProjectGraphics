@@ -21,7 +21,7 @@ Ravshan Khamidov
 
 Arkabaev Daniyar
 
-Nuraim
+ Askat Kyzy Nuraim
 
 
 
