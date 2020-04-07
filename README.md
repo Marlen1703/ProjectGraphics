@@ -13,15 +13,11 @@ but it be interesting to play with and get some intuition about the relationship
 ![main](https://user-images.githubusercontent.com/49818721/77933858-f3051680-72b7-11ea-9592-9f09c62877d4.jpg)
 
 # Team:
-Ibraimov Marlen
-
-Askat Kyzy Zharkyn 
-
-Ravshan Khamidov
-
-Arkabaev Daniiar
-
-Askat Kyzy Nuraim
+Main engineer-Ibraimov Marlen
+Team leader, organizator-Arkabaev Daniyar
+Engineer assistant,designer- Askat kyzy Jarkyn
+Designer assistant-Khamidov Ravshan
+Pr-manager-Askat kyzy Nuraim
 
 
 
