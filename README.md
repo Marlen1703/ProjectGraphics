@@ -14,9 +14,13 @@ but it be interesting to play with and get some intuition about the relationship
 
 # Team:
 Main engineer-Ibraimov Marlen
+
 Team leader, organizator-Arkabaev Daniyar
+
 Engineer assistant,designer- Askat kyzy Jarkyn
+
 Designer assistant-Khamidov Ravshan
+
 Pr-manager-Askat kyzy Nuraim
 
 
